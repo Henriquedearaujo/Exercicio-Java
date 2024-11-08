@@ -1,25 +1,8 @@
 # Exercicios-Java
 
-## Os execicios está nas branches.
-
-### branch Tarefa_classe
-
-### branch Tarefa_Wrappers
-
-### branch TarefaCalculoMedia
-
-### branch Tipo-Pessoa
-
-### branch TarefaControleDeFluxo
-
-### branch Colecoes-parte-1
-
-### branch Colecoes-parte-2
-
-### branch Generic
-
-## branch Annotetion
-
-## branch Reflections
-
 ## branch Tarefa_Stream
+
+### Objetivo:
+
+> Criar um exemplo de como ler uma lista de pessoas, separar os gêneros masculino e feminino, 
+  e depois filtrar somente as pessoas do gênero feminino usando expressões "lambda e stream".
