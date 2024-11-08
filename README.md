@@ -2,21 +2,21 @@
 
 ## Os execicios está nas branches.
 
-### branch Tarefa_classe
+## branch Tarefa_classe
 
-### branch Tarefa_Wrappers
+## branch Tarefa_Wrappers
 
-### branch TarefaCalculoMedia
+## branch TarefaCalculoMedia
 
-### branch Tipo-Pessoa
+## branch Tipo-Pessoa
 
-### branch TarefaControleDeFluxo
+## branch TarefaControleDeFluxo
 
-### branch Colecoes-parte-1
+## branch Colecoes-parte-1
 
-### branch Colecoes-parte-2
+## branch Colecoes-parte-2
 
-### branch Generic
+## branch Generic
 
 ## branch Annotetion
 
