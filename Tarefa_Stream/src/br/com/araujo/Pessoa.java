@@ -1,3 +1,5 @@
+package br.com.araujo;
+
 public class Pessoa {
     private String nome;
     private String genero;
@@ -17,7 +19,7 @@ public class Pessoa {
 
     @Override
     public String toString() {
-        return "Pessoa{" +
+        return "br.com.araujo.Pessoa{" +
                 "nome='" + nome + '\'' +
                 ", genero='" + genero + '\'' +
                 '}';
