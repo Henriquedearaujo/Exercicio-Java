@@ -1,8 +1,7 @@
 # Exercicios-Java
 
-## branch Tarefa_Stream
+## branch Tarefa_Teste_Unitario
 
 ### Objetivo:
 
-> Criar um exemplo de como ler uma lista de pessoas, separar os gêneros masculino e feminino, 
-  e depois filtrar somente as pessoas do gênero feminino usando expressões "lambda e stream".
+> Vamos criar um teste usando JUnit 4 para verificar se a lista de pessoas do gênero feminino é filtrada corretamente.
